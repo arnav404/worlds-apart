@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d496113ebd3844e2dac3f67398270556
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - def: {fileID: 2100000, guid: 3dd296d6887eb4c509a9526dba4221d6, type: 2}
+  - glowRed: {fileID: 2100000, guid: f6ca46a7014e543818a506fcea31d0fb, type: 2}
+  - glowBlue: {fileID: 2100000, guid: d30e4e330f56842faa1ffc305692ba76, type: 2}
+  - blueGlowPlatform: {instanceID: 0}
+  - redGlowPlatform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

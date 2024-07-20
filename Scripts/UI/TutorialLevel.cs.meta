@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 01a53f7f6a27b446eadafc885ea58fe5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - checkpoint: {fileID: 11400000, guid: 22ec69f0dc6dc43898318e1b71993500, type: 2}
+  - p1Poof: {fileID: 930919077410861944, guid: 678375335cfee4658b865ca5099bfba5, type: 3}
+  - p2Poof: {fileID: 2756274175059241129, guid: 3a534b868fa3d433ca391e02b3e3eea0,
+      type: 3}
+  - p1Checkpoint: {fileID: 1009623539034557982, guid: 5846a2faada4c4aa0848682d95fc386b,
+      type: 3}
+  - p2Checkpoint: {fileID: 4631472713129887826, guid: cdf0b43c264fc4b68a11eb67af82edf9,
+      type: 3}
+  - floater1: {fileID: 4419035822081333589, guid: 20d07088532744e04a4298ace44d02ab,
+      type: 3}
+  - floater2: {fileID: 7463857502310474962, guid: 9a9ac65ca191c45ddb2fd5bd26615377,
+      type: 3}
+  - standardP1: {fileID: 2483561850510064255, guid: d90db733f39e147569f9e6a9a5ed3a82,
+      type: 3}
+  - standardP2: {fileID: 178901200855227030, guid: ce823fcacfd0347cc9517892cf9573bf,
+      type: 3}
+  - dropperP1: {fileID: 4050177731577082882, guid: 958e390aac92b43ec8890e85fbe6dde3,
+      type: 3}
+  - dropperP2: {fileID: 3427911276163759864, guid: b1a6af598eb9e408ab4a88129df3b62e,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

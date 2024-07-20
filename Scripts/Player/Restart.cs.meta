@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 163d94773a3ba4d35a5988b4c5cafa61
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - checkpoint: {fileID: 11400000, guid: 22ec69f0dc6dc43898318e1b71993500, type: 2}
+  - menuInfo: {fileID: 11400000, guid: 5a74a66ab0a8e4edcadf1f81028cd22a, type: 2}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

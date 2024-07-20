@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b5f150901a4f4441191e0ed9d8883830
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deathEffect: {fileID: 3255278968991879363, guid: fd6351db5225b4d9facefd3bf59332b5,
+      type: 3}
+  - block: {fileID: 960022599602682308, guid: 4226bca6d2d9a46988bd48c0220f84b4, type: 3}
+  - ghostBlock: {fileID: 4226016914225491926, guid: cb7d60827cc7b427a8926dd0bd423e91,
+      type: 3}
+  - ghost: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
